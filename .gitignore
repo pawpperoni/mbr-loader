@@ -1,0 +1,18 @@
+# compiled files
+*.o
+none
+
+# linked objects
+*.out
+
+# binaries
+*.bin
+
+# dependencies
+*.d
+
+# image files
+*.img
+
+# tar files
+*.tar.gz
